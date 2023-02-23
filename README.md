@@ -1,4 +1,4 @@
-![descrição da imagem](https://www.xpinc.com/wp-content/uploads/sites/6/2022/06/XPinc-thumbnail-e1642526171403.jpg)
+![descrição da imagem]([https://www.xpinc.com/wp-content/uploads/sites/6/2022/06/XPinc-thumbnail-e1642526171403.jpg](https://yt3.googleusercontent.com/Ow5E9smrP3yArMMyx3hqt0RyTb6fVGqkQeewy2HZGZZUUzBTS_2AmqUWSb2TM-iseFdbaaUUkg=s900-c-k-c0x00ffffff-no-rj))
 <h1 align="center"> 👋 Hi there, I'm Willian Menezes </h1>
 
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
