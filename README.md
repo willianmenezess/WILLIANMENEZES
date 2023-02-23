@@ -1,4 +1,4 @@
-(https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME](https://www.xpinc.com/wp-content/uploads/sites/6/2022/06/XPinc-thumbnail-e1642526171403.jpg)
+![descrição da imagem](https://www.xpinc.com/wp-content/uploads/sites/6/2022/06/XPinc-thumbnail-e1642526171403.jpg)
 <h1 align="center"> 👋 Hi there, I'm Willian Menezes </h1>
 
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
