@@ -19,8 +19,8 @@
 ## 📈 Github Stats
 <div>
   <a href="https://github.com/willianmenezess">
-    <img src = "https://github-readme-stats.vercel.app/api?username=willianmenezess&theme=dark&show_icons=true">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=willianmenezess&layout=compact&theme=dark">
+    <img src = "https://github-readme-stats.vercel.app/api?username=willianmenezess&theme=dark">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=willianmenezess&theme=dark">
 <div>
 
   
