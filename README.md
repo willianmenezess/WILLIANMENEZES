@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/118014220/221015552-ba7c54f2-e8aa-49df-bd72-1ed257b7dabe.png">
+  <img src="https://miro.medium.com/v2/resize:fit:960/1*470-S2KoLnsk_6fnwBakyQ.png">
 </p>
 
 # Olá, sou Willian Menezes
