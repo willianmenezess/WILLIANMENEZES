@@ -6,13 +6,13 @@
 # Olá, sou Willian Menezes
 
 🇧🇷 <br>
-👋🏻 Sou formado em Engenharia Civil pela Universidade Federal de Campina Grande (UFCG), mestre em Estruturas pela UFPE e, atualmente, estou em transição de carreira para me tornar um desenvolvedor full-stack.
+👋🏻 Desenvolvedor Web/Software Full Stack pela Trybe - Bolsista XPInc. (2022-2023). Também sou formado em Engenharia Civil pela Universidade Federal de Campina Grande - UFCG (2012-2017), mestre em Estruturas pela UFPE (2018-2020).
 
 <img align="left" width="20px" heigh='20px' src="https://user-images.githubusercontent.com/118014220/221029766-0b257eb5-9fd7-4fd5-9176-9ebad498505f.png">Estudando Desenvolvimento Web/Software na Trybe e sou bolsista da XPInc.
 <br><br>
 
 🇺🇸 <br>
-👋🏻 Civil Engineering from the Federal University of Campina Grande (UFCG), a master's degree in Structures from UFPE and, currently, I'm in a career transition to become a full-stack developer.
+👋🏻 Full Stack Web/Software Developer by Trybe - XPInc. Fellow (2022-2023). I also graduated in Civil Engineering from the Federal University of Campina Grande - UFCG (2012-2017), Master in Structures from UFPE (2018-2020).
 
 <img align="left" width="20px" heigh='20px' src="https://user-images.githubusercontent.com/118014220/221029766-0b257eb5-9fd7-4fd5-9176-9ebad498505f.png">Studying Web/Software Development at Trybe and I'm an XPInc Scholar.
  
@@ -35,13 +35,14 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
   
 ## 📝 Aprendendo / Learning
   
 <div>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
   
   
