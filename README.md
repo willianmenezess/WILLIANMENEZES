@@ -3,19 +3,17 @@
   <img src="https://miro.medium.com/v2/resize:fit:960/1*470-S2KoLnsk_6fnwBakyQ.png">
 </p>
 
-# Olá, sou Willian Menezes
+# Olá, sou Willian Menezes 😉
 
-🇧🇷 <br>
-👋🏻 Desenvolvedor Web/Software Full Stack pela Trybe - Bolsista XPInc. (2022-2023). Também sou formado em Engenharia Civil pela Universidade Federal de Campina Grande - UFCG (2012-2017), mestre em Estruturas pela UFPE (2018-2020).
+<br>
+👋🏻 Desenvolvedor Web/Software Full Stack pela Trybe - Bolsista XPInc. (2022-2023). Também sou formado em Engenharia Civil pela Universidade Federal de Campina Grande - UFCG (2012-2017), mestre em Estruturas pela UFPE (2018-2020). Em busca de novos desafios, através de uma mente aberta e pensamento grande, fiz transição de carreira para a área da Tecnologia, onde aprendi  Fundamentos de desenvolvimento, JavaScript, Front-end, Back-end, Ciência da Computação, Metodologias Ágeis e habilidades comportamentais.
+<br><br>
+Tenho experiência com Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL, MongoDB e Firestore). Tenho conhecimentos em Programação Orientada à Objetos, Python, React (Redux e Context API), Docker, Testes Automatizados, entre outros.
+<br><br>
+Meu objetivo é sempre me envolver em projetos que me façam aprender para crescer, agregando conhecimento para me tornar um profissional completo com oportunidade de transitar por diversas áreas do mercado, prezando sempre pela empatia e pela colaboração.
 
-<img align="left" width="20px" heigh='20px' src="https://user-images.githubusercontent.com/118014220/221029766-0b257eb5-9fd7-4fd5-9176-9ebad498505f.png">Estudando Desenvolvimento Web/Software na Trybe e sou bolsista da XPInc.
 <br><br>
 
-🇺🇸 <br>
-👋🏻 Full Stack Web/Software Developer by Trybe - XPInc. Fellow (2022-2023). I also graduated in Civil Engineering from the Federal University of Campina Grande - UFCG (2012-2017), Master in Structures from UFPE (2018-2020).
-
-<img align="left" width="20px" heigh='20px' src="https://user-images.githubusercontent.com/118014220/221029766-0b257eb5-9fd7-4fd5-9176-9ebad498505f.png">Studying Web/Software Development at Trybe and I'm an XPInc Scholar.
- 
 ## 📈 Github Stats
 <div>
   <a href="https://github.com/willianmenezess">
