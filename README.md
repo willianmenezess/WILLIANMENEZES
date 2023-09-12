@@ -6,7 +6,7 @@
 # Olá, sou Willian Menezes 😉
 
 <br>
-👋🏻 Desenvolvedor Web/Software Full Stack pela Trybe - Bolsista XPInc. (2022-2023). Também sou formado em Engenharia Civil pela Universidade Federal de Campina Grande - UFCG (2012-2017), mestre em Estruturas pela UFPE (2018-2020). Em busca de novos desafios, através de uma mente aberta e pensamento grande, fiz transição de carreira para a área da Tecnologia, onde aprendi  Fundamentos de desenvolvimento, JavaScript, Front-end, Back-end, Ciência da Computação, Metodologias Ágeis e habilidades comportamentais.
+👋🏻 Desenvolvedor Full Stack pela Trybe - Bolsista XPInc. (2022-2023). Também sou formado em Engenharia Civil pela Universidade Federal de Campina Grande - UFCG (2012-2017), mestre em Estruturas pela UFPE (2018-2020). Em busca de novos desafios, através de uma mente aberta e pensamento grande, fiz transição de carreira para a área da Tecnologia, onde aprendi  Fundamentos de desenvolvimento, JavaScript, Front-end, Back-end, Ciência da Computação, Metodologias Ágeis e habilidades comportamentais.
 <br><br>
 Tenho experiência com Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL, MongoDB e Firestore). Tenho conhecimentos em Programação Orientada à Objetos, Python, React (Redux e Context API), Docker, Testes Automatizados, entre outros.
 <br><br>
