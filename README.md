@@ -10,7 +10,7 @@
 <br><br>
 Tenho experiência com Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL, MongoDB e Firestore). Tenho conhecimentos em Programação Orientada à Objetos, Python, React (Redux e Context API), Docker, Testes Automatizados, entre outros.
 <br><br>
-Meu objetivo é sempre me envolver em projetos que me ofereçam condições de estar agregando conhecimento para me tornar um profissional completo, com oportunidade de transitar por diversas áreas do mercado, prezando sempre pela empatia e pela colaboração.
+Meu objetivo é me envolver em projetos que ofereçam condições de estar agregando conhecimento para me tornar um profissional completo, sendo protagonista da minha carreira, com o propósito de melhorar a vida das pessoas através da tecnologia e claro, sempre prezando pela empatia e pela colaboração. Para isso, tenho a obsessão de aprender e me especializar cada vez mais.
 
 <br><br>
 
