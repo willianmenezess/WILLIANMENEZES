@@ -6,9 +6,9 @@
 # Olá, sou Willian Menezes 😉
 
 <br>
-👋🏻 Desenvolvedor Full Stack pela Trybe - Bolsista XPInc. (2022-2023). Também sou formado em Engenharia Civil pela Universidade Federal de Campina Grande - UFCG (2012-2017), mestre em Estruturas pela UFPE (2018-2020). Em busca de novos desafios, através de uma mente aberta e pensamento grande, fiz transição de carreira para a área da Tecnologia, onde aprendi  Fundamentos de desenvolvimento, JavaScript, Front-end, Back-end, Ciência da Computação, Metodologias Ágeis e habilidades comportamentais.
+Desenvolvedor Full Stack pela Trybe (escola de tecnologia com mais de 1500hrs, 12 meses) - Bolsista XPInc. (2022-2023). Também sou formado em Engenharia Civil pela Universidade Federal de Campina Grande - UFCG (2012-2017), mestre em Estruturas pela UFPE (2018-2020). No mestrado tive de trabalhar com programação na minha dissertação (Matlab e Maple software) e acabei gostando muito, então através de uma mente aberta e pensamento grande, fiz transição de carreira para a área da Tecnologia, onde aprendi  Fundamentos de desenvolvimento, JavaScript, Front-end, Back-end, Introd. à Ciência da Computação, Ciência de dados, Python, Metodologias Ágeis e habilidades comportamentais.
 <br><br>
-Tenho experiência com Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL, MongoDB e Firestore). Tenho conhecimentos em Programação Orientada à Objetos, Python, React (Redux e Context API), Docker, Testes Automatizados, entre outros.
+Tenho experiência com Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL, MongoDB). Tenho conhecimentos em Programação Orientada à Objetos, Python, React (Redux e Context API), Docker, Testes Automatizados, entre outros.
 <br><br>
 Meu objetivo é me envolver em projetos que ofereçam condições de estar agregando conhecimento para me tornar um profissional completo, sendo protagonista da minha carreira, com o propósito de melhorar a vida das pessoas através da tecnologia e claro, sempre prezando pela empatia e pela colaboração. Para isso, tenho a obsessão de aprender e me especializar cada vez mais.
 
