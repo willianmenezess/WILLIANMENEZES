@@ -18,7 +18,7 @@ Meu objetivo é me envolver em projetos que ofereçam condições de estar agreg
 <div>
   <a href="https://github.com/willianmenezess">
     <img src = "https://github-readme-stats.vercel.app/api?username=willianmenezess&theme=dark">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=willianmenezess&theme=dark">
+<!--     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=willianmenezess&theme=dark"> -->
 <div>
 
   
