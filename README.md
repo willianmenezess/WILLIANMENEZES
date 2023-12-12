@@ -6,11 +6,16 @@
 # Olá, sou Willian Menezes 😉
 
 <br>
-Desenvolvedor Full Stack pela Trybe (escola de tecnologia com mais de 1700hrs, 1 ano e 2 meses) - Bolsista XPInc. (2022-2023). Também sou formado em Engenharia Civil pela Universidade Federal de Campina Grande - UFCG (2012-2017), mestre em Estruturas pela UFPE (2018-2020). No mestrado tive de trabalhar com programação na minha dissertação (Matlab e Maple software) e acabei gostando muito, então através de uma mente aberta e pensamento grande, fiz transição de carreira para a área da Tecnologia, onde, até então, aprendi  Fundamentos de Desenvolvimento, JavaScript, Front-end, Back-end, Introd. à Ciência da Computação, Ciência de dados, Python, Metodologias Ágeis e habilidades comportamentais.
+- Desenvolvedor Full Stack pela Trybe (escola de tecnologia com mais de 1700hrs, 1 ano e 2 meses) - Bolsista XPInc. (2022-2023); 
+- Engenheiro Civil pela Universidade Federal de Campina Grande - UFCG (2012-2017);
+- Mestrado em Estruturas pela UFPE (2018-2021);
+- Pós-Graduação em Desenvolvimento Full Stack pela XP Educação (2022-2023). 
+
+  No mestrado tive de trabalhar com programação na minha dissertação (Matlab e Maple software) e acabei gostando muito, então através de uma mente aberta e pensamento grande, fiz transição de carreira para a área da Tecnologia, onde, até então, aprendi  Fundamentos de Desenvolvimento, JavaScript, Front-end, Back-end, Introd. à Ciência da Computação, Ciência de dados, Python, Metodologias Ágeis e habilidades comportamentais.
 <br><br>
-Tenho experiência com Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL, MongoDB), JavaScript, Programação Orientada à Objetos, Python, Flask, Django, React (Redux e Context API), Docker, Testes Automatizados, entre outros.
+  Tenho experiência com Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL, MongoDB), JavaScript, Programação Orientada à Objetos, Python, Flask, Django, React (Redux e Context API), Docker, Testes Automatizados, entre outros.
 <br><br>
-Meu objetivo é me envolver em projetos que ofereçam condições de estar agregando conhecimento para me tornar um profissional completo, sendo protagonista da minha carreira, com o propósito de melhorar a vida das pessoas através da tecnologia e claro, sempre prezando pela empatia e pela colaboração. Para isso, tenho a obsessão de aprender e me especializar cada vez mais.
+  Meu objetivo é me envolver em projetos que ofereçam condições de estar agregando conhecimento para me tornar um profissional completo, sendo protagonista da minha carreira, com o propósito de melhorar a vida das pessoas através da tecnologia e claro, sempre prezando pela empatia e pela colaboração. Para isso, tenho a obsessão de aprender e me especializar cada vez mais.
 
 <br><br>
 
