@@ -10,9 +10,9 @@
 <br>
 - Engenheiro Civil pela Universidade Federal de Campina Grande - UFCG (2012-2017);
 <br>
-- Mestrado em Estruturas pela UFPE (2018-2021);
-<br>
 - Pós-Graduação em Desenvolvimento Full Stack pela XP Educação (2022-2023). 
+<br>
+- Mestrado em Estruturas pela UFPE (2018-2021);
 <br><br>
   No mestrado tive de trabalhar com programação na minha dissertação (Matlab e Maple software) e acabei gostando muito, então através de uma mente aberta e pensamento grande, fiz transição de carreira para a área da Tecnologia, onde, até então, aprendi  Fundamentos de Desenvolvimento, JavaScript, Front-end, Back-end, Introd. à Ciência da Computação, Ciência de dados, Python, Metodologias Ágeis e habilidades comportamentais.
 <br><br>
