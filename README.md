@@ -6,7 +6,7 @@
 # Olá, sou Willian Menezes 😉
 
 <br>
-- Granduando em Engenharia de Software - Centro Universitário Anhanguera AMPLI (2022-2026); 
+- Granduando em Engenharia de Software - Centro Universitário Anhanguera Ampli (2022-2026); 
 <br>
 - Desenvolvedor Full Stack pela Trybe (escola de tecnologia com mais de 1700hrs, 1 ano e 2 meses) - Bolsista XPInc. (2022-2023); 
 <br>
