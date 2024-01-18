@@ -6,13 +6,13 @@
 # Olá, sou Willian Menezes 😉
 
 <br>
-- Granduando em Engenharia de Software - Centro Universitário Anhanguera Ampli (2023-2026); 
+- Granduando em Ciência da Computação - Centro Universitário das Américas (FAM) (2023-2027); 
 <br>
 - Desenvolvedor Full Stack pela Trybe (escola de tecnologia com mais de 1700hrs, 1 ano e 2 meses) - Bolsista XPInc. (2022-2023); 
 <br>
 - Engenheiro Civil pela Universidade Federal de Campina Grande - UFCG (2013-2017);
 <br>
-- Pós-Graduação em Desenvolvimento Full Stack pela XP Educação (2022-2023). 
+- Pós-Graduado em Desenvolvimento Full Stack pela XP Educação (2022-2023). 
 <br>
 - Mestrado em Estruturas pela UFPE (2018-2021);
 <br><br>
