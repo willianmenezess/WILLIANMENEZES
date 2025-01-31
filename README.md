@@ -6,7 +6,7 @@
 # Olá, sou Willian Menezes 😉
 
 <br>
-- Granduando em Ciência da Computação - Centro Universitário das Américas (FAM) (2023-2027); 
+- Graduando em Ciência da Computação - Centro Universitário das Américas (FAM) (2023-2027); 
 <br>
 - Desenvolvedor Full Stack pela Trybe (escola de tecnologia com mais de 1700hrs, 1 ano e 2 meses) - Bolsista XPInc. (2022-2023); 
 <br>
